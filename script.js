@@ -50,9 +50,9 @@ const alumniData = [
   },
   {
     nickname: "Nadia",
-    campus: "Asal Kampus",
-    ig: "Link Instagram",
-    linkedin: "Link LinkedIn",
+    campus: "Universitas Amikom Yogyakarta",
+    ig: "https://www.instagram.com/slvnadia",
+    linkedin: "https://www.linkedin.com/in/nadia-silvia-616622310/",
     photo: "URL Foto",
   },
   {
@@ -140,11 +140,11 @@ const alumniData = [
     photo: "URL Foto",
   },
   {
-    nickname: "Wiranto",
-    campus: "Asal Kampus",
-    ig: "Link Instagram",
-    linkedin: "Link LinkedIn",
-    photo: "URL Foto",
+    nickname: "Wiranto M Ginanjar",
+    campus: "Universitas Widyatama",
+    ig: "https://www.instagram.com/wir_muhammad",
+    linkedin: "www.linkedin.com/in/wiramuhammad",
+    photo: "https://lh3.googleusercontent.com/pw/AP1GczOYvJQtPQuvojbjv2Yj0IDNoIfX5XH4mQcUXD4wc_m1U9l2fCa77KgBCwU4UahQVRznUAhOb4pPlxstVuiln0LyvXSYHrELWBnj75J6IflpLecAxkg=w2400",
   },
   {
     nickname: "Raffausta",
