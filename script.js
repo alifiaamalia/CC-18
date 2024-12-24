@@ -50,9 +50,9 @@ const alumniData = [
   },
   {
     nickname: "Nadia",
-    campus: "Asal Kampus",
-    ig: "Link Instagram",
-    linkedin: "Link LinkedIn",
+    campus: "Universitas Amikom Yogyakarta",
+    ig: "https://www.instagram.com/slvnadia",
+    linkedin: "https://www.linkedin.com/in/nadia-silvia-616622310/",
     photo: "URL Foto",
   },
   {
