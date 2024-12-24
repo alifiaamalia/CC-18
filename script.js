@@ -140,11 +140,11 @@ const alumniData = [
     photo: "URL Foto",
   },
   {
-    nickname: "Wiranto",
-    campus: "Asal Kampus",
-    ig: "Link Instagram",
-    linkedin: "Link LinkedIn",
-    photo: "URL Foto",
+    nickname: "Wiranto M Ginanjar",
+    campus: "Universitas Widyatama",
+    ig: "https://www.instagram.com/wir_muhammad",
+    linkedin: "www.linkedin.com/in/wiramuhammad",
+    photo: "https://lh3.googleusercontent.com/pw/AP1GczPjS5hdvcWETa5uUvhV8h9kjfIjh10Fcny6mrN8HzMS4dE_V3K5xghC3WCnm-j2IQImPzVlwezAxJCkfav0h4c9N_N3roGFsyJKVqHjOlpQR8A4XgY=w2400",
   },
   {
     nickname: "Raffausta",
