@@ -8,10 +8,10 @@ const alumniData = [
   },
   {
     nickname: "Akiraka",
-    campus: "Asal Kampus",
-    ig: "Link Instagram",
-    linkedin: "Link LinkedIn",
-    photo: "URL Foto",
+    campus: "Institut Teknologi Sepuluh Nopember",
+    ig: "https://www.instagram.com/akiraka123/",
+    linkedin: "https://www.linkedin.com/in/akiraka123/",
+    photo: "https://i.imgur.com/z2BCaNa.jpeg",
   },
   {
     nickname: "Azhar",
