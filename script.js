@@ -91,11 +91,11 @@ const alumniData = [
     photo: "URL Foto",
   },
   {
-    nickname: "Afif",
-    campus: "Asal Kampus",
-    ig: "Link Instagram",
-    linkedin: "Link LinkedIn",
-    photo: "URL Foto",
+    nickname: "Muzzza",
+    campus: "Universitas Ternak Lele",
+    ig: "https://www.instagram.com/afifmza",
+    linkedin: "https://www.linkedin.com/in/muhammadafifrohmanmuzaky/",
+    photo: "https://ibb.co.com/TtnWc2Z",
   },
   {
     nickname: "Faiz",
