@@ -95,7 +95,7 @@ const alumniData = [
     campus: "Universitas Ternak Lele",
     ig: "https://www.instagram.com/afifmza",
     linkedin: "https://www.linkedin.com/in/muhammadafifrohmanmuzaky/",
-    photo: "https://ibb.co.com/TtnWc2Z",
+    photo: "https://i.ibb.co.com/rHLdk0g/Screenshot-2024-10-29-050822.png",
   },
   {
     nickname: "Faiz",
