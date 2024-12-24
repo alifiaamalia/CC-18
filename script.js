@@ -144,7 +144,7 @@ const alumniData = [
     campus: "Universitas Widyatama",
     ig: "https://www.instagram.com/wir_muhammad",
     linkedin: "www.linkedin.com/in/wiramuhammad",
-    photo: "https://photos.app.goo.gl/5KZQuiW3YYDuSY9w8https://lh3.googleusercontent.com/pw/AP1GczOKEhj0XvRIQPEUO0LH7eOrmY-eliD1hI07U8EnzL77hHIT9yoYfCiubReVwwVgCmKDD-dTgMANYdmiEzEhfKJtyppVa_X7Q2U3PILH6MRWLZVBzt4=w2400",
+    photo: "https://lh3.googleusercontent.com/pw/AP1GczPjS5hdvcWETa5uUvhV8h9kjfIjh10Fcny6mrN8HzMS4dE_V3K5xghC3WCnm-j2IQImPzVlwezAxJCkfav0h4c9N_N3roGFsyJKVqHjOlpQR8A4XgY=w2400",
   },
   {
     nickname: "Raffausta",
