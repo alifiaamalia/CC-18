@@ -43,9 +43,9 @@ const alumniData = [
   },
   {
     nickname: "Alifia",
-    campus: "Asal Kampus",
-    ig: "Link Instagram",
-    linkedin: "Link LinkedIn",
+    campus: "Universitas Ahmad Dahlan",
+    ig: "https://www.instagram.com/alifiaazzrr",
+    linkedin: "https://www.linkedin.com/in/alifia-amalia-azzara-4145b3339",
     photo: "URL Foto",
   },
   {
